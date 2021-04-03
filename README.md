@@ -1,6 +1,6 @@
-### I'm Djordje, nice to meet you!  :smiley: 
+### I'm Djordje, nice to meet you!  :relaxed:
 
-I'm a Full-stack Developer from Belgrade, Serbia, with a focus on the JavaScript ecosystem. Outside of programming I'm a runner, love boardgames and enjoying a healthy lifestyle :relaxed:
+I'm a Full-stack Developer from Belgrade, Serbia, with a focus on the JavaScript ecosystem. Outside of programming I'm a runner, love boardgames and enjoying a healthy lifestyle :seedling:
 
 **What I'm doing now** 
 
