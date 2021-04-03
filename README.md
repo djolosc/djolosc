@@ -4,7 +4,7 @@ I'm a Full-stack Developer from Belgrade, Serbia, with a focus on the JavaScript
 
 **What I'm doing now** 
 
-* 🔭 I’m working on an awesome project that focuses on bringing social equity to those that need it most 
+* 🔭 I’m working on an awesome project that focuses on bringing social equity to those that need it most - [CitizenPilot](https://github.com/hmar13/Citizen-Pilot)
 * :keyboard: Focusing on TypeScript
 
 **My languages and tools:**
